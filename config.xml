@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+		xmlns:gap="http://phonegap.com/ns/1.0"
+		id="com.flipCards.monashcollege"
+		versionCode="1"
+		version="0.0.7">
+		
+	<name>flipCards</name>
+    <description>
+        Smart Phone version of the FlipCards
+    </description>
+    <author email="chris.starbuck@monashcollege.edu.au" href="monashcollege.edu.au">
+        Chris Starbuck
+    </author>
+		
+</widget>
+		
